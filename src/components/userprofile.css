@@ -1,0 +1,27 @@
+.user-profile {
+    max-width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    background: linear-gradient(135deg, #f0f0f0, #e0e0e0);
+    border-radius: 12px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+    font-family: "Arial", sans-serif;
+    text-align: center;
+}
+
+.user-profile h2 {
+    font-size: 24px;
+    color: #0077cc;
+    margin-bottom: 10px;
+}
+
+.user-profile p {
+    font-size: 18px;
+    color: #444;
+    margin: 5px 0;
+}
+
+.user-profile span {
+    font-weight: bold;
+    color: #222;
+}
